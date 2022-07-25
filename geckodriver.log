@@ -1,0 +1,78 @@
+1658319387534	geckodriver	INFO	Listening on 127.0.0.1:50178
+1658319390576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danie\\AppData\\Local\\Temp\\rust_mozprofileItU2S3"
+1658319390884	Marionette	INFO	Marionette enabled
+1658319390887	Marionette	INFO	Listening on port 50188
+WebDriver BiDi listening on ws://localhost:50179
+Read port: 50188
+1658319390962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danie\\AppData\\Local\\Temp\\rust_mozprofileItU2S3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50179/devtools/browser/5f1c6d60-7dda-4c6b-90d5-9738068f2372
+JavaScript warning: https://www.amazon.co.uk/ASUS-24GB-Graphics-DisplayPort-TUF-RTX3090TI-O24G-GAMING/dp/B09Q3KH131/ref=sr_1_1?crid=1E2IBO76M3I5K&keywords=3090%2Bti&qid=1658317098&refinements=p_n_availability%3A419162031&rnid=419160031&sprefix=3090%2Bti%2Caps%2C48&sr=8-1 line 8182 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/61lemL2h6EL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.co.uk"
+1658320071146	Marionette	INFO	Stopped listening on port 50188
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658320386355	geckodriver	INFO	Listening on 127.0.0.1:50676
+1658320389390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danie\\AppData\\Local\\Temp\\rust_mozprofileGbdtaM"
+1658320389691	Marionette	INFO	Marionette enabled
+1658320389693	Marionette	INFO	Listening on port 50685
+WebDriver BiDi listening on ws://localhost:50677
+Read port: 50685
+1658320389775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danie\\AppData\\Local\\Temp\\rust_mozprofileGbdtaM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50677/devtools/browser/7cb86663-3ffd-4abe-8e8b-bb3ef745bfce
+1658320396178	Marionette	INFO	Stopped listening on port 50685
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658320836125	geckodriver	INFO	Listening on 127.0.0.1:51603
+1658320839152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51604" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danie\\AppData\\Local\\Temp\\rust_mozprofileyVWmYA"
+1658320839456	Marionette	INFO	Marionette enabled
+1658320839458	Marionette	INFO	Listening on port 51612
+WebDriver BiDi listening on ws://localhost:51604
+Read port: 51612
+1658320839562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danie\\AppData\\Local\\Temp\\rust_mozprofileyVWmYA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51604/devtools/browser/9b6b3c4c-7999-40a5-9b55-700104af4ce2
+JavaScript warning: https://www.amazon.co.uk/dp/B084DWCZXZ/ref=gw_uk_desk_mso_aucc_brw_bau_xpl2?pf_rd_r=AT383CWZXXMA4RWTMJKK&pf_rd_p=63577912-b3f1-487d-b04a-73ff53a09e0a&pd_rd_r=f8e0455e-aa60-46a7-b305-042cba9b42bb&pd_rd_w=92neJ&pd_rd_wg=XhFF2&ref_=pd_gw_unk line 16830 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.co.uk"
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/61lemL2h6EL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bestbuy.com/aWxWY1jssLcW/o7cgXd0F1S/2U/wa9c8wQwGi/JSlObhhbAQ/DTZ/CLwQ9D3Y, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/aWxWY1jssLcW/o7cgXd0F1S/2U/wa9c8wQwGi/JSlObhhbAQ/DTZ/CLwQ9D3Y, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 5088 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/aWxWY1jssLcW/o7cgXd0F1S/2U/wa9c8wQwGi/JSlObhhbAQ/DTZ/CLwQ9D3Y, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/aWxWY1jssLcW/o7cgXd0F1S/2U/wa9c8wQwGi/JSlObhhbAQ/DTZ/CLwQ9D3Y, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 4345 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/aWxWY1jssLcW/o7cgXd0F1S/2U/wa9c8wQwGi/JSlObhhbAQ/DTZ/CLwQ9D3Y, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/aWxWY1jssLcW/o7cgXd0F1S/2U/wa9c8wQwGi/JSlObhhbAQ/DTZ/CLwQ9D3Y, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+console.error: "Unable to find target with innerWindowId:8589934637"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658320930449	Marionette	INFO	Stopped listening on port 51612
